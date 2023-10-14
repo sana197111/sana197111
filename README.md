@@ -51,6 +51,13 @@
     <div>
         <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> 
     </div>
+    <!-- CI/CD -->
+    <p><strong>CI/CD</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
+        <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"> 
+        <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+    </div> 
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
