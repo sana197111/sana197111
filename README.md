@@ -16,8 +16,8 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -37,10 +37,25 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+        <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
+    </div>
+    <!-- Visualization -->
+    <p><strong>Visualizaiton</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/looker-4285F4?style=flat-square&logo=looker&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Superset-326CE5?style=flat-square&logo=Superset&logoColor=white"> 
+    </div>
+    <!-- DeepLearning -->
+    <p><strong>Visualizaiton</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> 
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/webflow-4353FF?style=flat-square&logo=webflow&logoColor=white">
+        <img src="https://img.shields.io/badge/wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white">
 </div><br>
 </div>
